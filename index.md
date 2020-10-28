@@ -3,9 +3,9 @@
 
 ## MISIÓN Y VISIÓN.
 
-### MISIÓN: Brindar servicios de salud, bienestar y belleza integral de calidad con atención personalizada, que superen las expectativas de nuestros clientes. Aspiramos ser una empresa con un crecimiento sostenido, innovadora y dedicada a servir y ayudar a nuestros clientes a verse y sentirse bien, estando conformada por un equipo de trabajo comprometido y sólido.
+#### MISIÓN: Brindar servicios de salud, bienestar y belleza integral de calidad con atención personalizada, que superen las expectativas de nuestros clientes. Aspiramos ser una empresa con un crecimiento sostenido, innovadora y dedicada a servir y ayudar a nuestros clientes a verse y sentirse bien, estando conformada por un equipo de trabajo comprometido y sólido.
 
-### VISIÓN: Ser reconocidos como una marca de salud y belleza líder en el mercado local, identificados por nuestro profesionalismo, calidad y excelente servicio al cliente, lo que nos permita ser la mejor opción en el mercado.
+#### VISIÓN: Ser reconocidos como una marca de salud y belleza líder en el mercado local, identificados por nuestro profesionalismo, calidad y excelente servicio al cliente, lo que nos permita ser la mejor opción en el mercado.
 
 #### NUESTROS VALORES.
 • Actitud de Servicio
@@ -16,7 +16,7 @@
 • Integridad
 
 
-### ¿QUIENES SOMOS?
+#### ¿QUIENES SOMOS?
 Somos una empresa dedicada a brindar servicios de salud, bienestar y belleza integral para mujeres y hombres de todas las edades. Además, ponemos al alcance de nuestros clientes productos de calidad que les permitan mantener una imagen bella y sana.
 
 
