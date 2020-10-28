@@ -1,5 +1,5 @@
 
-# Bienvenido al sitio web ofical de Adara Salón.
+# Bienvenido al sitio web oficial de Adara Salón.
 
 Deberia poner algo aqui...
 
